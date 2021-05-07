@@ -46,6 +46,7 @@ function draw() {
         ball.velocityX=-3
     }
    
+    
   if(ball.isTouching(block4)){
     sound.play()
   
