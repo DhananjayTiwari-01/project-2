@@ -83,6 +83,7 @@ function draw() {
     ball.velocityY=3
   }
 
+    
   
    
     drawSprites()
